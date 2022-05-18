@@ -1,0 +1,31 @@
+div.{
+    text-align: right;
+    background-color: #000000;
+}
+div.{
+    text-align: left;
+    background-color: #ff99ff;
+div.{
+    text-align: center;
+    background-color: #c0c0c0;
+}
+div.{
+    text-align: center;
+    background-color: #ffff99;
+}
+   
+}
+h1{
+    color: #ff0000;
+}
+h2{
+    color: #008000;
+}
+h3{
+    color: #008080;
+}
+h4{
+    color: #800080;
+}
+div#d{
+    background-color: #00ffff;
